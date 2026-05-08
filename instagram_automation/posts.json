@@ -1,0 +1,12 @@
+[
+    {
+        "image": "media/images/post1.jpg",
+        "caption": "🚀 Launching something amazing! Stay tuned. #innovation #tech #startup",
+        "status": "pending"
+    },
+    {
+        "image": "media/images/post2.jpg",
+        "caption": "☕ Good vibes only. #lifestyle #morning #coffee",
+        "status": "pending"
+    }
+]

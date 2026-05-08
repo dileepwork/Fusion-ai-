@@ -1,0 +1,12 @@
+[
+    {
+        "username": "your_instagram_username_1",
+        "password": "your_password_1",
+        "active": true
+    },
+    {
+        "username": "your_instagram_username_2",
+        "password": "your_password_2",
+        "active": true
+    }
+]
